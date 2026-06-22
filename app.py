@@ -85,7 +85,7 @@ st.markdown("""
         ❤️ Heart Disease Risk Predictor
     </h2>
     <p style='text-align:center; color:gray; font-size:13px;'>
-        SE-CD-638 Machine Learning &nbsp;|&nbsp;
+        
         KNN Champion Model &nbsp;|&nbsp;
         AUC: 89.66% &nbsp;|&nbsp; F1: 84.06%
     </p>
