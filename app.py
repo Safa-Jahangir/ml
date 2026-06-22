@@ -232,6 +232,6 @@ with st.expander("🧪 Verified Low Risk Test Case"):
 # ── Footer ───────────────────────────────────────────────────
 st.divider()
 st.caption(
-    "SE-CD-638 Machine Learning | Dr. Aamir Arsalan | "
+   
     "UCI Heart Disease Dataset | KNN Tuned — AUC 89.66%"
 )
